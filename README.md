@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi All!
+
+```python
+print("hello world!")
+```
 
 <!--
 **Andreyka445/Andreyka445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

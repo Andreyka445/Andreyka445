@@ -23,7 +23,7 @@ Creating Android Programms
 
 Building TWRP/OFRP
 
-Kotlin / Python leanguages ( I now python base)
+Kotlin / Python leanguages ( I know python base)
 
 
  ### My prorjects 💼
@@ -32,11 +32,17 @@ Kotlin / Python leanguages ( I now python base)
 
 [KL4 community](https://t.me/kl4community) collab with [Zeonshik](https://4pda.to/forum/index.php?showuser=11916629) & Neth
 
+### My Stats
+
+![VeroX stats](https://github-readme-stats.vercel.app/api?username=Andreyka445&show_icons=true&theme=tokyonight)
+
+
+
 
 ### My contacts 📱
 🔢4pda [qms](https://4pda.to/forum/index.php?showuser=11624748)
 
 📧E-mail: seleznevandrey186@outlook.com
 
-Telegram: @Andreyka445
+Telegram: @Andreyka44_5
 

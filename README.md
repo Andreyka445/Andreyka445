@@ -27,7 +27,7 @@ Kotlin / Python leanguages ( I now python base)
 
 [VeroX prjct](https://t.me/Andreyka445real)
 
-[KL4 community] collab with [Zeonshik](https://4pda.to/forum/index.php?showuser=11916629) & Neth
+[KL4 community](https://t.me/kl4community) collab with [Zeonshik](https://4pda.to/forum/index.php?showuser=11916629) & Neth
 
 
 ### My contacts

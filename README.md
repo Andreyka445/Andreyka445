@@ -3,9 +3,9 @@
 ```python
 print("hello world!")
 ```
-### About me
+### About  
 
-___My Skills___
+🛠️ ___My Skills___
 
 _Porting custom & OEM roms_
 
@@ -16,26 +16,24 @@ Buildind custom rom ( Need server )
 Creating Android Programms
 
 
-___I learning___
+🧠 ___I learning___
 
 Building TWRP/OFRP
 
 Kotlin / Python leanguages ( I now python base)
 
-### My projects
+
+ ### My prorjects
+
+[VeroX prjct](https://t.me/Andreyka445real)
+
+[KL4 community] collab with [Zeonshik](https://4pda.to/forum/index.php?showuser=11916629) & Neth
 
 
-<!--
-**Andreyka445/Andreyka445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My contacts
+[4pda qms](https://4pda.to/forum/index.php?showuser=11624748)
 
-Here are some ideas to get you started:
+E-mail: seleznevandrey186@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram: @Andreyka445
+

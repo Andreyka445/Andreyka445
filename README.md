@@ -3,7 +3,8 @@
 ```python
 print("hello world!")
 ```
-### About  
+:scroll:
+### About me 
 
 🛠️ ___My Skills___
 
@@ -31,9 +32,9 @@ Kotlin / Python leanguages ( I now python base)
 
 
 ### My contacts
-[4pda qms](https://4pda.to/forum/index.php?showuser=11624748)
+4pda [qms](https://4pda.to/forum/index.php?showuser=11624748)
 
-E-mail: seleznevandrey186@outlook.com
+  E-mail: seleznevandrey186@outlook.com
 
 Telegram: @Andreyka445
 

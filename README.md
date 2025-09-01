@@ -14,7 +14,7 @@ _Porting custom & OEM roms_
 
 _Building Magisk Modules_
 
-Buildind custom rom ( Need server )
+_Building custom rom's ( Need server )_
 
 Creating Android Programms
 

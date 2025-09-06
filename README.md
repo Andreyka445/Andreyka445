@@ -44,5 +44,5 @@ Kotlin / Python leanguages ( I know python base)
 
 📧E-mail: seleznevandrey186@outlook.com
 
-Telegram: @Andreyka44_5
+Telegram: @Andreyka4_45
 

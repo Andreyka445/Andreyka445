@@ -12,11 +12,11 @@ Im a Android Developer from Russia 🗽
 
 _Porting custom & OEM roms_
 
-_Building Magisk Modules_
-
 _Building custom rom's ( Need server )_
 
-Creating Android Programms
+_Building Magisk Modules_
+
+_Creating Android Programms_
 
 
 🧠 ___I learning___

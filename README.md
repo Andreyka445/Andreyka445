@@ -34,7 +34,7 @@ Kotlin / Python leanguages ( I know python base)
 
 ### My Stats
 
-![VeroX stats](https://github-readme-stats.vercel.app/api?username=Andreyka445&show_icons=true&theme=tokyonight)
+![VeroX stats](https://github-readme-stats.vercel.app/api?username=Andreyka445&show_icons=true&theme=tokyonight)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyka445&layout=compact&theme=tokyonight)
 
 ### My badges
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

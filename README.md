@@ -23,7 +23,7 @@ _Creating Android Programms_
 
 Building TWRP/OFRP
 
-Kotlin / Python leanguages ( I know python base)
+Kotlin / Python leanguages
 
 
  ### My prorjects 💼

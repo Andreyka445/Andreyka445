@@ -1,12 +1,10 @@
 ## Hi All!
 
-```python
-print("hello world!")
-```
-
 ### About me 📜
 
 Im a Android Developer from Russia 🗽
+
+Millennium & GrayRaven's core member
 
 🛠️ ___My Skills___
 
@@ -18,13 +16,7 @@ _Building Magisk Modules_
 
 _Creating Android Programms_
 
-
-🧠 ___I learning___
-
-Building TWRP/OFRP
-
-Kotlin / Python leanguages
-
+_Building TWRP/OFRP_
 
  ### My prorjects 💼
 

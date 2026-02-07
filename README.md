@@ -1,5 +1,6 @@
 ## Hi All!
-[![doc-2026-02-01-23-08-06-gif.gif](https://i.postimg.cc/90hbRPFJ/doc-2026-02-01-23-08-06-gif.gif)](https://postimg.cc/k6TKLbSb)
+![doc_2026-02-07_14-04-35 (1)](https://github.com/user-attachments/assets/5c617b47-072a-4839-bdec-7c9de6045a1b)
+
 ### About me 📜
 
 Im a Android Developer from Russia 🗽

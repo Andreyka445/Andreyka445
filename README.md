@@ -1,4 +1,4 @@
-## Hi All!
+## Another one android stuff lover
 ![doc_2026-02-07_14-04-35 (1)](https://github.com/user-attachments/assets/5c617b47-072a-4839-bdec-7c9de6045a1b)
 
 ### About me 📜
@@ -9,27 +9,21 @@ Millennium & GrayRaven's core member
 
 🛠️ ___My Skills___
 
-_Porting custom & OEM roms_
+_Custom rom builder_
 
-_Building custom rom's ( Need server )_
+___Currently maintained devices:___
+
+_Nothing Phone (3a) Lite_
+
+_TECNO POVA 5_
 
 _Building Magisk Modules_
-
-_Creating Android Programms_
 
 _Building TWRP/OFRP_
 
  ### My prorjects 💼
 
-[VeroX prjct](https://t.me/Andreyka445real)
-
-[KL4 community](https://t.me/kl4community) collab with [Zeonshik](https://4pda.to/forum/index.php?showuser=11916629) & Neth
-
-### My Stats
-
-![VeroX stats](https://github-readme-stats.vercel.app/api?username=Andreyka445&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyka445&layout=compact&theme=tokyonight)
+[Black Pearl](https://t.me/Andreyka445real)
 
 ### Activity
 [![Andreyka's acativity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreyka445&theme=drakula&height=300&days=90&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)

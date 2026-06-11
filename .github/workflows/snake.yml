@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: market/[email protected]
+      - uses: market/contributing-pac-man@v1
         with:
           github_user_name: Andreyka445
           head_branch: output

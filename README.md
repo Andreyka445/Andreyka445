@@ -26,7 +26,7 @@ _Building TWRP/OFRP_
 [Black Pearl](https://t.me/Andreyka445real)
 
 ### Activity
-![github-snake](https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/github-snake-dark.svg)
+![pacman](https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/pacman.gif)
 
 
 ### Tech Stack

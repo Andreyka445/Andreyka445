@@ -26,7 +26,7 @@ _Building TWRP/OFRP_
 [Black Pearl](https://t.me/Andreyka445real)
 
 ### Activity
-[![Andreyka's acativity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreyka445&theme=drakula&height=300&days=90&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![github-snake](https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/github-snake-dark.svg)
 
 
 ### Tech Stack
@@ -38,4 +38,5 @@ _Building TWRP/OFRP_
 📧E-mail: seleznevandrey186@outlook.com
 
 Telegram: @crazy_joker67
+
 

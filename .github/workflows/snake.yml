@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pac-Man
 
 on:
   schedule:
@@ -8,19 +8,20 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - uses: market/[email protected]
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Andreyka445
+          head_branch: output
+          gif_out_path: dist/pacman.gif
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:

@@ -26,7 +26,11 @@ _Building TWRP/OFRP_
 [Black Pearl](https://t.me/Andreyka445real)
 
 ### Activity
-![pacman](https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/pacman.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/pacman-contribution-graph.svg">
+  <img alt="pacman" src="https://raw.githubusercontent.com/Andreyka445/Andreyka445/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### Tech Stack
